@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BalanceSheet</string>
+    <string name="balance_sheet">Balance Sheet</string>
+    <string name="month">month</string>
+    <string name="op_bal">O.B</string>
+    <string name="clo_bal">C.B</string>
+    <string name="amount">amt</string>
+    <string name="total">total</string>
+    <string name="sales">sales</string>
+    <string name="month_head">Month</string>
+    <string name="closing_balance">C.B</string>
+    <string name="opening_balance">O.B</string>
+    <string name="sales_head">Sales</string>
+    <string name="total_head">Total</string>
+    <string name="amount_head">Amount</string>
+    <string name="jan">Jan</string>
+</resources>
